@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\main.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\main.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(61): warning C4018: >: несоответствие типов со знаком и без знака
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(60): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\main.cpp(17): note: см. ссылку на создание экземпляров функции шаблон при компиляции "int &DynamicArray<int>::operator [](int)"
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\main.cpp(11): note: см. ссылку на создание экземпляров класса шаблон при компиляции "DynamicArray<int>"
+c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(84): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(78): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(100): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void DynamicArray<int>::Enlarge(int)"
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(98): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(108): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void DynamicArray<int>::Resize(int)"
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(34): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\main.cpp(11): note: см. ссылку на создание экземпляров функции шаблон при компиляции "DynamicArray<int>::DynamicArray(void)"
+c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(94): warning C4018: >: несоответствие типов со знаком и без знака
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(93): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\users\ermos\onedrive\документы\visual studio 2015\projects\с++algo\2.dynamic array\2.dynamic array\dynamicarray.h(102): note: см. ссылку на создание экземпляров функции шаблон при компиляции "void DynamicArray<int>::Shrink(int)"
+  2.Dynamic array.vcxproj -> C:\Users\ermos\OneDrive\Документы\Visual Studio 2015\Projects\С++algo\1.EncodingTable\ConsoleApplication1\Debug\2.Dynamic array.exe
+  2.Dynamic array.vcxproj -> C:\Users\ermos\OneDrive\Документы\Visual Studio 2015\Projects\С++algo\1.EncodingTable\ConsoleApplication1\Debug\2.Dynamic array.pdb (Full PDB)
